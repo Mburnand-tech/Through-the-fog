@@ -40,9 +40,9 @@ In order to run this project locally, the following must be installed on your ma
   cd <project-name>
   ``` 
   and open it with VSCode using `code .`
-5. In your terminal, run 
+5. To install porject dependancies, run 
   ```clone 
-  npm install <package>
+  npm install
   ```
   to install all dependencies. 
 
