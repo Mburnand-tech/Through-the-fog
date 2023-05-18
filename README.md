@@ -27,7 +27,7 @@ In order to run this project locally, the following must be installed on your ma
 ## Run Locally
 
 1. Fork this repository.
-2. Via your terminal, create a new directory using ``` clone 
+2. Via your terminal, create a new directory using ```clone 
   mkdir <project-name>
   ```
 3. Clone your forked version of the repository to your local machine using the command 
