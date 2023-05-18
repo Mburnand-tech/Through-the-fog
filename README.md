@@ -33,13 +33,13 @@ In order to run this project locally, the following must be installed on your ma
   ```
 3. Clone your forked version of the repository to your local machine using the command 
   ```clone 
-  git clone <repo-url>
-  ```.
+  git clone https://github.com/Mburnand-tech/Through-the-fog.git
+  ```
 4. Naviagte into your new directory using 
   ```clone 
   cd <project-name>
   ``` 
-  and open it with your chosen software, e.g. using the command `code .` to open it in VSCode.
+  and open it with VSCode using `code .`
 5. In your terminal, run 
   ```clone 
   npm install <package>
