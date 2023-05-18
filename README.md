@@ -39,7 +39,8 @@ In order to run this project locally, the following must be installed on your ma
   cd <project-name>
   ``` 
   
-5. Open it with VSCode using ```clone 
+5. Open it with VSCode using 
+  ```clone 
   code .
   ```
   
