@@ -35,12 +35,15 @@ In order to run this project locally, the following must be installed on your ma
   ```clone 
   git clone <repo-url>
   ```.
-4. Naviagte into your new directory using ``` clone 
+4. Naviagte into your new directory using 
+  ```clone 
   cd <project-name>
   ``` 
-  and open it with your chosen software, e.g. using the command ```code .``` to open it in VSCode.
-5. In your terminal, run ```clone 
-  npm install <package>```
+  and open it with your chosen software, e.g. using the command `code .` to open it in VSCode.
+5. In your terminal, run 
+  ```clone 
+  npm install <package>
+  ```
   to install all dependencies. 
 
 In your terminal, run `npx expo start` to start the development server and use the Expo Go App to use the application or run it virtually using Android Studio Virtual Device Manager.
