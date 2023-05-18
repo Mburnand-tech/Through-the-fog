@@ -6,8 +6,6 @@ Through the Fog is a mobile app built on React Native that tracks users realtime
 
 You can view a group presentation about the project and a demo of the app [here](https://github.com/Mburnand-tech/Through-the-fog/assets/82216191/a9f72ebc-2b5d-42ab-bc9e-c9800d137ee3).
 
-The back-end for this project is [here](https://github.com/leahbanks/BE-through-the-fog), which I didn't contribute towards 
-
 Features:
 - Tracking, recording and displaying of a user's geographical data. Sensitive to height, the heigher the phone the more fog is uncovered.
 - Create or Login User.
@@ -52,3 +50,5 @@ In order to run this project locally, the following must be installed on your ma
 
 In your terminal, run `npx expo start` to start the development server and use the Expo Go App to use the application or run it virtually using Android Studio Virtual Device Manager.
 
+## Team
+As a team of 6, I was a part of a 3 person team who build the front-end, including the map functionality and geotagging. The other 3 build the back-end, which can be found [here](https://github.com/leahbanks/BE-through-the-fog), which I didn't contribute towards 
