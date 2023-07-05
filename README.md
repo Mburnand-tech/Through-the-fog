@@ -2,7 +2,7 @@
 # Through the Fog
 ## Description 
 
-Through the Fog is a mobile app built on React Native that tracks user's real-time movement, presented by an unveiling of 'fog' from a map interface. It was built to encourage exploration and through GeoTagging to allow memories in pictures to be associated by their location on the map.
+Through the Fog is a mobile app built on React Native that tracks user's real-time movement, presented by an unveiling of 'fog' from a map interface. It was built to encourage exploration and through GeoTagging to allow memories in pictures to be associated by their location on the map
 
 You can view a group presentation about the project and a demo of the app [here](https://github.com/Mburnand-tech/Through-the-fog/assets/82216191/a9f72ebc-2b5d-42ab-bc9e-c9800d137ee3).
 
