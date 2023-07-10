@@ -10,7 +10,7 @@ Features:
 - Tracking, recording and displaying of a user's geographical data. Sensitive to height, the higher the phone the more fog is uncovered
 - Create or Login User
 - Scoreboard of area uncovered by all users
-- Toggle fog colour
+- Toggle fog colour.
 - Delete user's fog history.
 
 ## Getting Started 
