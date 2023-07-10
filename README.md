@@ -11,7 +11,7 @@ Features:
 - Create or Login User
 - Scoreboard of area uncovered by all users
 - Toggle fog colour
-- Delete user's fog history
+- Delete user's fog history.
 
 ## Getting Started 
 
