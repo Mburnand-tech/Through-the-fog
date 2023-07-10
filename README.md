@@ -7,7 +7,7 @@ Through the Fog is a mobile app built on React Native that tracks user's real-ti
 You can view a group presentation about the project and a demo of the app [here](https://github.com/Mburnand-tech/Through-the-fog/assets/82216191/a9f72ebc-2b5d-42ab-bc9e-c9800d137ee3).
 
 Features:
-- Tracking, recording and displaying of a user's geographical data. Sensitive to height, the higher the phone the more fog is uncovered
+- Tracking, recording and displaying of a user's geographical data. Sensitive to height, the higher the phone the more fog is uncovered.
 - Create or Login User.
 - Scoreboard of area uncovered by all users.
 - Toggle fog colour.
