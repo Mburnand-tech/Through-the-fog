@@ -19,7 +19,7 @@ To run this project locally, the following must be installed on your machine:
 
  * Node.js -Node Package Manager
  * React Native CLI - installed globally
- * Android Studio on your desktop or Expo Go on your mobile phone.
+ * Android Studio on your desktop or Expo Go on your mobile phone
 
 ## Run Locally
 
