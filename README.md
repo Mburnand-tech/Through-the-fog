@@ -51,4 +51,4 @@ To run this project locally, the following must be installed on your machine:
 In your terminal, run `npx expo start` to start the development server and use the Expo Go App to use the application or run it virtually using Android Studio Virtual Device Manager.
 
 ## Team
-As a team of 6, I was part of a 3 person team who built the front-end, including the map functionality and geotagging. The other 3 built the back-end, which can be found [here](https://github.com/leahbanks/BE-through-the-fog), which I didn't contribute towards 
+As a team of 6, I was part of a 3 person team who built the front-end, including the map functionality and geotagging. The other 3 built the back-end, which can be found [here](https://github.com/leahbanks/BE-through-the-fog), which I didn't contribute towards. 
